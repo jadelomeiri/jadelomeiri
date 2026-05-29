@@ -1,29 +1,75 @@
-<h1 align="center">Hi 👋, I'm Jad</h1>
-<h3 align="center">Nonconformist #Startups #Software #Developer passionate about building products & brands.</h3>
+# Hi, I'm Jad El Omeiri
 
-- 🔭 I’m currently working on [Beyond Scopes](https://www.beyondscopes.com)
+**Senior Software Engineer · Product-minded builder · AI-assisted delivery**
 
-- 🌱 I’m currently learning **Nuxt.js, Grisdome...**
+I build software where product thinking, engineering judgement, and practical delivery meet.
 
-- 👯 I’m collaborating on [Reach Digitalworks](https://www.reachdigitalworks.com)
+I'm a backend/full-stack engineer with 12+ years of experience across startups, scale-ups, consulting, and large e-commerce platforms. I enjoy turning ambiguous problems into simple, maintainable systems — especially when there is a real user, business, or operational problem behind the code.
 
-- 🤝 You can find me on [Jad El Omeiri](https://www.jadelomeiri.com)
+I'm based in Cardiff, UK.
 
-- 📝 I regulary write articles on [https://www.startupstechandlife.com](https://www.startupstechandlife.com)
+## How I think about engineering
 
-- 💬 Ask me about **Java, Groovy, Grails, Full Stack, Agile, Startups**
+I care about building the right thing, not just building things right.
 
-- 📫 How to reach me **jad.elomeiri@gmail.com**
+A few principles I keep coming back to:
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jadelomeiri/](https://www.linkedin.com/in/jadelomeiri/)
+- **Problem first, tools second**
+- **Simple systems beat clever systems**
+- **Iteration beats perfection**
+- **Production-readiness is a mindset, not a checklist**
+- **Good software should be understandable by the next person**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jadelomeiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jadelomeiri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jadelomeiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jadelomeiri/" height="30" width="40" /></a>
-<a href="https://instagram.com/jadelomeiri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jadelomeiri/" height="30" width="40" /></a>
-<a href="/https://www.startupstechandlife.com/feeds/posts/default" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.startupstechandlife.com/feeds/posts/default" height="30" width="40" /></a>
-</p>
+I'm happiest in teams where engineers are close to the product, understand trade-offs, and take ownership beyond just writing code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## What I bring
+
+I've worked across greenfield products, startup environments, consulting projects, and long-lived production systems.
+
+That means I'm comfortable with both sides of engineering:
+
+- building new products from zero
+- improving existing systems without unnecessary rewrites
+- making technical decisions with business context
+- balancing speed, quality, and maintainability
+- debugging production issues with calm, structured reasoning
+- collaborating across product, design, engineering, and leadership
+
+I like teams that value good judgement, direct communication, and thoughtful execution over theatre.
+
+## Tech I work with
+
+**Backend:** Java, Spring Boot, Groovy, Grails, REST APIs, PostgreSQL, Flyway, JPA, Testcontainers
+
+**Frontend/Product:** TypeScript, JavaScript, Next.js, Astro, Vue/Nuxt, Tailwind CSS
+
+**Platform:** Docker, GitHub Actions, CI/CD, observability, automated quality gates
+
+**AI workflows:** OpenAI/Codex, agentic development, prompt-driven tooling, GitHub-based automation
+
+**Other experience:** CMS platforms, search, e-commerce, performance optimisation, system modernisation
+
+## What I'm exploring now
+
+I'm especially interested in the intersection of:
+
+- strong backend/platform engineering
+- product-led software development
+- AI-assisted delivery
+- small, focused teams
+- useful tools for real businesses
+- pragmatic architecture that helps teams move faster
+
+I'm also building and experimenting with local-first growth tools for small businesses through **WeGrow**.
+
+## Outside code
+
+I'm Lebanese, based in Cardiff, and I care about discipline, resilience, community, and building things that matter.
+
+Outside engineering, you'll usually find me running, boxing, exploring Wales, or working on product ideas.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jadelomeiri/)
+- [Website](https://www.jadelomeiri.com)
+- [GitHub](https://github.com/jadelomeiri)
