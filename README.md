@@ -1,12 +1,14 @@
 # Hi, I'm Jad El Omeiri
 
-**Senior Software Engineer · Product-minded builder · AI-assisted delivery**
+**Senior Software Engineer · Product-minded builder · Founder**
 
 I build software where product thinking, engineering judgement, and practical delivery meet.
 
-I'm a backend/full-stack engineer with 12+ years of experience across startups, scale-ups, consulting, and large e-commerce platforms. I enjoy turning ambiguous problems into simple, maintainable systems — especially when there is a real user, business, or operational problem behind the code.
+I'm a Lebanese-Belgian senior software engineer based in Cardiff, UK, with 12+ years of experience across startups, scale-ups, consulting, and large e-commerce platforms.
 
-I'm based in Cardiff, UK.
+I enjoy turning ambiguous problems into simple, maintainable systems — especially when there is a real user, business, or operational problem behind the code.
+
+I'm currently building [WeGrow](https://www.trywegrow.com), helping local independent businesses get found, trusted, and contacted online.
 
 ## How I think about engineering
 
@@ -45,9 +47,9 @@ I like teams that value good judgement, direct communication, and thoughtful exe
 
 **Platform:** Docker, GitHub Actions, CI/CD, observability, automated quality gates
 
-**AI workflows:** OpenAI/Codex, agentic development, prompt-driven tooling, GitHub-based automation
+**AI-assisted delivery:** OpenAI/Codex, prompt-driven tooling, GitHub-based automation, documentation, refactoring, and faster feedback loops
 
-**Other experience:** CMS platforms, search, e-commerce, performance optimisation, system modernisation
+**Other experience:** CMS platforms, search/discovery, e-commerce, performance optimisation, system modernisation
 
 ## What I'm exploring now
 
@@ -60,8 +62,6 @@ I'm especially interested in the intersection of:
 - useful tools for real businesses
 - pragmatic architecture that helps teams move faster
 
-I'm also building and experimenting with local-first growth tools for small businesses through **WeGrow**.
-
 ## Outside code
 
 I'm Lebanese, based in Cardiff, and I care about discipline, resilience, community, and building things that matter.
@@ -70,6 +70,6 @@ Outside engineering, you'll usually find me running, boxing, exploring Wales, or
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jadelomeiri/)
 - [Website](https://www.jadelomeiri.com)
-- [GitHub](https://github.com/jadelomeiri)
+- [LinkedIn](https://www.linkedin.com/in/jadelomeiri/)
+- [WeGrow](https://www.trywegrow.com)
